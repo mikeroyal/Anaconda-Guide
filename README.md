@@ -8,7 +8,6 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
-<img src="">
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/152066896-2fb4c20a-b0e9-4013-9a7f-ce6c8898035c.png">
   <br />
@@ -23,7 +22,7 @@
 
 # Table of Contents
 
-1. [Getting Started with Anaconda](https://github.com/mikeroyal/Anaconda-Guide#learning-resources-for-ML)
+1. [Getting Started with Anaconda](https://github.com/mikeroyal/Anaconda-Guide#getting-started-with-anaconda)
 
 2. [ML Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Anaconda-Guide#ML-frameworks-libraries-and-tools)
 
