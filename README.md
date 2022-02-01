@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/152066890-1e0d180b-6276-48a3-a00b-aa5776eddadf.png">
   <br />
   Anaconda Guide
 </h1>
@@ -8,11 +8,18 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
-<img src="https://user-images.githubusercontent.com/45159366/134075227-d9e361c6-abb7-47bc-9fae-b20f73649696.png">
+<img src="">
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/152066896-2fb4c20a-b0e9-4013-9a7f-ce6c8898035c.png">
+  <br />
+ 
+</p>
 
-<img src="https://user-images.githubusercontent.com/45159366/134075233-925d48fd-47f2-44d0-946b-0453272bde35.jpeg">
-
-**Machine Learning/Deep Learning Frameworks.**
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/134075233-925d48fd-47f2-44d0-946b-0453272bde35.jpeg">
+  <br />
+  Machine Learning/Deep Learning Frameworks.
+</p>
 
 # Table of Contents
 
@@ -48,16 +55,18 @@
 
 16. [Julia Development](https://github.com/mikeroyal/Anaconda-Guide#julia-development)
 
-<p align="center">
- <img src="">
-  <br />
-  
-</p>
+
 
 # Getting Started with Anaconda
 [Back to the Top](https://github.com/mikeroyal/Anaconda-Guide#table-of-contents)
 
 [Anaconda](https://www.anaconda.com/) is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them. Checkout [Anaconda Documentation](https://docs.conda.io/en/latest/) for the latest information.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/152066921-28e5055f-e3a1-4929-9b4f-47b198d64b65.png">
+  <br />
+  Anaconda Enterprise
+</p>
 
 [Conda package](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/packages.html) is a cloud-based repository to find and install over  7,500 data science and machine learning packages. With the conda-install command, you can start using thousands of open-source Conda, R, Python and many other packages.
 
